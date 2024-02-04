@@ -1,0 +1,16 @@
+.contain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.contain div{
+    padding: 12px;
+    width: auto;
+
+}
+.light{
+    background-color: yellow;
+}
